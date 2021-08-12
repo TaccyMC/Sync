@@ -1,0 +1,7 @@
+name: Sync
+version: ${project.version}
+main: net.taccy.sync.Sync
+api-version: 1.16
+authors: [ ThatsFinn ]
+description: Sync is a small spigot plugin that allows for automatic plugin updates based on github releases.
+website: https://taccy.net
